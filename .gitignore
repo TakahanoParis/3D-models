@@ -1,0 +1,3 @@
+# ignore blender backup files
+
+*.blend[0-9]
