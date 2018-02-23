@@ -1,10 +1,10 @@
-#ignore WIP folders
-/BlenderFiles
-/SubstanceFiles
-
 # ignore blender backup files
+
 *.blend[0-9]
 
 # Substance files
 *.spp
 
+#ignore WIP folders
+/BlenderFiles
+/SubstanceFiles
