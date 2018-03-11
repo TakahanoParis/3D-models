@@ -5,5 +5,5 @@
 *.spp
 
 #ignore WIP folders
-BlenderFiles/
-SubstanceFiles/
+**/BlenderFiles/**
+**/SubstanceFiles/**
